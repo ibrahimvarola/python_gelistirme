@@ -6,4 +6,4 @@ pi = 3.14159
 
 alan = pi * yaricap**2
 
-print("Çapı", cap, "cm olan dairenin alanı= " , alan)s
+print("Çapı", cap, "cm olan dairenin alanı= " , alan)
