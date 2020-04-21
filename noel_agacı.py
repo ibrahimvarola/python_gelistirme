@@ -1,10 +1,11 @@
 istenen = input("İstedğiniz basamak sayısını giriniz : ")
-c = int(istenen)
+
 try :
-    b = int(istenen)
-    b += 4
+    c = int(istenen)
+    
 except ValueError :
     print("Lütfen sayı giriniz")
+    exit()
 
 for a in range(1,int(istenen)+1,2) :
     c -= 1
