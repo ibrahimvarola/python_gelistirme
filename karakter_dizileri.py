@@ -30,7 +30,7 @@ for isim in site1, site2, site3, site4:
     print("site: ", isim[4:-4])
 print("\n")
 
-#Karakter dizisini ters çevirme
+#Karakter dizisini ters çevirme: (syntax: kardiz[ilk_karakter:son_karakter:atlama_sayısı])
 
 dizi1 = "You don' t know the power of the Dark Side."
 print(dizi1[::-1])
