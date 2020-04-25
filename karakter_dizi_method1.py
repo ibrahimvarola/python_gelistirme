@@ -3,7 +3,9 @@
 dizi1 = "ibrahim"
 print(dizi1.replace("i", "İ", 1), "\n")
 
-#split(), rsplit(), splitlines() metodları
+#split(), rsplit(), splitlines() metodları 
+#rsplit metodu split metodunun sağdan sola doğru okunmuş halidir.
+#splitlines metodu enter tuşuna basıldığı yerden kesme yapar.
 
 dizi2 = "Türkiye Büyük Millet Meclisi"
 print(dizi2.split(), "\n")
