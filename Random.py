@@ -34,7 +34,7 @@ uniform *
 vonmisesvariate
 weibullvariate
 """
-#print(a)
+print(a)
 
 #random methodu rastgele float tipinde sayı seçer
 print(random.random(), "\trandom ")
