@@ -12,3 +12,5 @@ print(dizi2.upper())
 dizi3 = "nightwish - noise.flac"
 print(dizi3.endswith(".flac"))
 print(dizi3.endswith(".mp3"))
+
+#startswith() metodu karakter dizisinin başlangıcını kontrol etmemizi sağlar. (syntax = startswith("son_kısım"))
